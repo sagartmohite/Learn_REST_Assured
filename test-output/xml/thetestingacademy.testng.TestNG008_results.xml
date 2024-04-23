@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssured5X"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.022">
+    <properties></properties>
+
+
+
+            <testcase
+                name="sanityRun"
+                time="0.002"
+                classname="learnrestassured.testng.TestNG008">
+            </testcase>
+            <testcase
+                name="RegRun"
+                time="0.016"
+                classname="learnrestassured.testng.TestNG008">
+            </testcase>
+            <testcase
+                name="SmokeRun"
+                time="0.004"
+                classname="learnrestassured.testng.TestNG008">
+            </testcase>
+</testsuite>

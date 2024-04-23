@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="/Users/sagar/IdeaProjects/APIAutomationRestAssured5X"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="176.002">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testGetAllBookingNegative2"
+                time="86.267"
+                classname="learnrestassured.crud.GET.GETRequestNonBDDTestNG">
+            </testcase>
+            <testcase
+                name="testGetAllBookingNegative"
+                time="89.735"
+                classname="learnrestassured.crud.GET.GETRequestNonBDDTestNG">
+            </testcase>
+</testsuite>

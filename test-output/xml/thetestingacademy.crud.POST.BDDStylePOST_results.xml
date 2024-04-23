@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="/Users/sagar/IdeaProjects/APIAutomationRestAssured5X"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.744">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testBDDStylePOSTPositive"
+                time="3.744"
+                classname="learnrestassured.crud.POST.BDDStylePOST">
+            </testcase>
+</testsuite>
